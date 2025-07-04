@@ -31,4 +31,4 @@ public class BudgetCalculator {
         System.out.println("Remaining Balance: $" + remainingBalance);
     }
 
- }
+}
