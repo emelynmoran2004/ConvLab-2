@@ -30,5 +30,5 @@ public class BudgetCalculator {
         System.out.println("Total Expenses: $" + totalExpenses);
         System.out.println("Remaining Balance: $" + remainingBalance);
     }
-
+}
 }
